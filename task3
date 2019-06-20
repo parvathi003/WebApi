@@ -1,0 +1,26 @@
+<html>
+<body onload="myfunction()">
+<script>
+function myfunction(){
+   alert("pge is loading");
+}
+</script>
+
+<script>
+function myfunction(){
+   alert(" HTML file ");
+}
+</script>
+ 
+<title>
+registration form 
+</title>
+<form action="/action_page.php" method="post">
+ <br>firstname<input type="text" name="firstname" required></br>
+ <br>lastname<input type="text" name="lastname" required></br>
+<br> address1<input type="type:left; "name="address1" required></br></tab>
+<br> address2<input type="type" name="adress2" required></br>
+ <br> <input type="submit" value="ok"></br>
+</form> 
+</body>
+</html>
